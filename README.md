@@ -5,3 +5,4 @@ Change a file that already exists
 
 Use option after commit command
 
+Add default account for git
