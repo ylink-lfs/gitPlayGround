@@ -35,3 +35,5 @@
 *.json
 
 .suo
+
+test
