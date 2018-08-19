@@ -33,3 +33,5 @@
 
 #vs configuration files
 *.json
+
+.suo
